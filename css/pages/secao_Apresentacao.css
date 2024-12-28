@@ -24,6 +24,10 @@
 
 @media (min-width: 768px) {
 
+    .secao1 {
+        height: 250vh;
+    }    
+
     .apresentacao__titulo {
         font-size: 4em;
     }
@@ -32,7 +36,24 @@
 @media (min-width: 1024px) {
 
     .secao1 {
-        height: 100vh;
+        height: 140vh;
+    }
+
+    .apresentacao__titulo {
+        font-size: 4em;
+    }
+
+    .div__apresentacao {
+        height: auto;
+    }
+}
+
+
+
+@media (min-width: 1440px) {
+
+    .secao1 {
+        height: 135vh;
     }
 
     .apresentacao__titulo {
