@@ -8,7 +8,7 @@ async function carregarItem(id, file) {
 carregarItem('navbar', '../components/navbar.html');
 carregarItem('secao_Apresentacao', './sections/secao_Apresentacao.html');
 carregarItem('secao_Produtos', './sections/secao_Produtos.html');
-carregarItem('secao3', './sections/secao3.html');
+carregarItem('secao_Noticias', './sections/secao_Noticias.html');
 carregarItem('secao4', './sections/secao4.html');
 carregarItem('secao5', './sections/secao5.html');
 carregarItem('secao6', './sections/secao6.html');
