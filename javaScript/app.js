@@ -9,7 +9,7 @@ carregarItem('navbar', '../components/navbar.html');
 carregarItem('secao_Apresentacao', './sections/secao_Apresentacao.html');
 carregarItem('secao_Produtos', './sections/secao_Produtos.html');
 carregarItem('secao_Noticias', './sections/secao_Noticias.html');
-carregarItem('secao4', './sections/secao4.html');
+carregarItem('secao_Times', './sections/secao_Times.html');
 carregarItem('secao5', './sections/secao5.html');
 carregarItem('secao6', './sections/secao6.html');
 carregarItem('secao7', './sections/secao7.html');
