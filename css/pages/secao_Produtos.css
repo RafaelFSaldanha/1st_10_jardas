@@ -1,0 +1,34 @@
+.secao2 {
+    height: 300vh;
+}
+
+.titulos__produtos {
+    font-family: var(--fonte-apresentacao);
+    background: var(--cor-fonte-apresentacao);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.card__titulo {
+    background-color: #e2e2e2;
+}
+
+@media (min-width: 768px) {
+    .secao2 {
+        height: 150vh;
+    }
+}
+
+@media (min-width: 1024px) {
+    .secao2 {
+        height: 180vh;
+    }
+}
+
+@media (min-width: 1440px) {
+    .secao2 {
+        height: 80vh;
+    }
+}
