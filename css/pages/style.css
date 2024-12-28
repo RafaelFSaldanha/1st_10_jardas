@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Anton';
+    src: url(../../assets/fonts/Anton/Anton-Regular.ttf) format('truetype');
+}
+
+:root {
+    --fonte-apresentacao: 'Anton', sans-serif;
+    --cor-fonte-apresentacao: linear-gradient(0deg, #B8C2CE, #262626);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #ffffff;
+}
