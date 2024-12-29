@@ -1,0 +1,28 @@
+.secao7 {
+    height: 100v;
+}
+
+.div__receba__noticias {
+    background-color: #e7e7e7;
+}
+
+.titulo {
+    font-family: var(--fonte-apresentacao);
+    background: var(--cor-fonte-apresentacao);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    z-index: 1;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.enviar__email {
+    transition: .3s;
+}
+
+.enviar__email:hover {
+    background-color: #262626;
+    color: #ffffff;
+    border-color: #262626;
+    cursor: pointer;
+}
