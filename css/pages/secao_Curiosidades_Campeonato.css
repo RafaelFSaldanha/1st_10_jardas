@@ -1,0 +1,75 @@
+.secao5 {
+    height: 300vh;
+}
+
+.div__curiosidades {
+    height: 30%;
+}
+
+.div__curiosidades3 {
+    height: 30%;
+    margin-top: 10vh;
+}
+
+.card__curiosidades {
+    height: 35%;
+    background-color: #f0f0f0;
+
+}
+
+.card__curiosidade {
+    background-color: transparent;
+    border: none;
+    height: 33%;
+}
+
+hr {
+    color: black;
+    height: 1px;
+    width: 80%;
+}
+
+.logo__times {
+    height: 5vh;
+}
+
+
+.team-row {
+    display: flex;
+    align-items: center;
+}
+.team-row img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+@media (min-width: 768px) {
+    .secao5 {
+        height: 300vh;
+    }
+
+    .card__curiosidades {
+        height: 35%;
+        margin-top: 25vh;
+    }
+
+    .card__curiosidade {
+        height: 30%;
+    }
+}
+
+@media (min-width: 1024px) {
+    .secao5 {
+        height: 100vh;
+    }
+
+    .div__curiosidades3 {
+        margin: 0;
+    }
+
+    .card__curiosidades {
+        height: 70vh;
+        margin-top: 9vh;
+    }
+}

@@ -1,4 +1,4 @@
-.secao5 {
+.secao4 {
     height: 100vh;
 }
 
@@ -97,7 +97,7 @@
 }
 
 @media (min-width: 1440px) {
-    .secao5 {
+    .secao4 {
         height: 120vh;
     }
 }
