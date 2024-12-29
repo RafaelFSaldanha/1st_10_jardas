@@ -1,4 +1,4 @@
-.secao4 {
+.secao3 {
     height: 250vh;
 }
 
@@ -39,8 +39,20 @@
     font-size: 1.5em;
 }
 
+.card__noticia {
+    background-color: transparent;
+    border: none;
+}
+
+hr {
+    color: black;
+    height: 1px;
+    width: 80%;
+    margin: 0;
+}
+
 @media (min-width: 768px) {
-    .secao4 {
+    .secao3 {
         height: 190vh;
     }
 
@@ -48,13 +60,13 @@
         height: 50% !important;
     }
 
-    .secao4 .col-12.h-md-50 {
+    .secao3 .col-12.h-md-50 {
         height: 50% !important; 
     }
 }
 
 @media (min-width: 1024px) {
-    .secao4 {
+    .secao3 {
         height: 130vh;
     }
     
@@ -63,7 +75,7 @@
         width: 50% !important;
     }
     
-    .secao4 .col-12.h-md-50 {
+    .secao3 .col-12.h-md-50 {
         height: 100% !important;
         width: 50% !important;
     }
@@ -92,7 +104,7 @@
 }
 
 @media (min-width: 1440px) {
-    .secao4 {
+    .secao3 {
         height: 100vh;
     }
 }   
