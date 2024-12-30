@@ -81,3 +81,11 @@
         height: 15vh;
     }
 }
+
+@media (min-width: 1440px) {
+
+    .card__curiosidades {
+        height: 70vh;
+        margin-top: 5vh;
+    }
+}

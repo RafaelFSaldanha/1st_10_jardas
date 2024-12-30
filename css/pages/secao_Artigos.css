@@ -62,3 +62,9 @@
         width: 3vw;
     }
 }
+
+@media (min-width: 1440px) {
+    .secao6 {
+        height: 90vh;
+    }
+}
