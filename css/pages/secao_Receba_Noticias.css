@@ -1,5 +1,5 @@
 .secao7 {
-    height: 100v;
+    height: 80vh;
 }
 
 .div__receba__noticias {
@@ -25,4 +25,16 @@
     color: #ffffff;
     border-color: #262626;
     cursor: pointer;
+}
+
+@media (min-width: 1024px) {
+    .secao7 {
+        height: 40vh;
+    }
+}
+
+@media (min-width: 1440px) {
+    .secao7 {
+        height: 50vh;
+    }
 }

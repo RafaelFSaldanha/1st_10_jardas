@@ -1,5 +1,5 @@
 .secao2 {
-    height: 320vh;
+    height: 240vh;
 }
 
 .titulos__produtos {
@@ -17,13 +17,13 @@
 
 @media (min-width: 768px) {
     .secao2 {
-        height: 150vh;
+        height: 130vh;
     }
 }
 
 @media (min-width: 1024px) {
     .secao2 {
-        height: 180vh;
+        height: 150vh;
     }
 }
 
