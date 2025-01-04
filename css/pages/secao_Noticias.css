@@ -1,5 +1,5 @@
 .secao3 {
-    height: 250vh;
+    height: 190vh;
 }
 
 .div__breaking {
@@ -53,7 +53,7 @@ hr {
 
 @media (min-width: 768px) {
     .secao3 {
-        height: 190vh;
+        height: 150vh;
     }
 
     .div__breaking {

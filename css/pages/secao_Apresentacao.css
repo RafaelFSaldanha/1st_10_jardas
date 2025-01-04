@@ -1,5 +1,5 @@
 .secao1 {
-    height: 220vh;
+    height: 180vh;
 }
 
 .div__apresentacao {
@@ -25,7 +25,7 @@
 @media (min-width: 768px) {
 
     .secao1 {
-        height: 250vh;
+        height: 200vh;
     }    
 
     .apresentacao__titulo {
@@ -36,7 +36,7 @@
 @media (min-width: 1024px) {
 
     .secao1 {
-        height: 140vh;
+        height: 100vh;
     }
 
     .apresentacao__titulo {

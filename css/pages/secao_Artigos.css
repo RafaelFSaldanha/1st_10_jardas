@@ -1,5 +1,5 @@
 .secao6 {
-    height: 250vh;
+    height: 200vh;
 }
 
 .imagem__perfil {
@@ -35,7 +35,7 @@
 
 @media (min-width: 768px) {
     .secao6 {
-        height: 330vh;
+        height: 250vh;
     }
 
     .imagem__perfil {
@@ -55,7 +55,7 @@
 
 @media (min-width: 1024px) {
     .secao6 {
-        height: 100vh;
+        height: 70vh;
     }
 
     .imagem__perfil {
